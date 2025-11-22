@@ -184,5 +184,5 @@ CONTACT
 
 Name: Sakin Zaman  
 GitHub: https://github.com/sakinz56  
-LinkedIn: ADD YOUR LINK HERE  
-Email: ADD IF YOU WANT
+LinkedIn:   
+Email: sakin.z8670@gmail.com
