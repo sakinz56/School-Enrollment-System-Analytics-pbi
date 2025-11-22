@@ -1,0 +1,13 @@
+CourseID,CourseName,Credits
+CSE100,Intro to Databases,4
+CSE101,Advanced SQL,4
+CSE102,Data Visualization,4
+CSE103,Networks,4
+CSE104,Operating Systems,3
+CSE105,Python Programming,4
+CSE106,Statistics,4
+CSE107,Linear Algebra,4
+CSE108,Cloud Fundamentals,4
+CSE109,Cybersecurity Basics,3
+CSE110,Data Warehousing,4
+CSE111,ETL Processes,4
